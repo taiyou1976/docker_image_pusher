@@ -1,5 +1,1 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:f155665f3a5faad07ab4dbe7e010790383936e5864344ccca7f40bbb2fa0f30b
-gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:f155665f3a5faad07ab4dbe7e010790383936e5864344ccca7f40bbb2fa0f30b
-gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:19781cd1dfde7f63ff3c5646b5fecdce89fb44006776bce3348742e27731270b
-gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:938fcfdb38b3a893499e4955733551370a049193f5588247ca59647ab4e48258
-gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:2c3d97beb39f6aeb13d8c0ff8df1591e8e0056c2aeb722abafdf1925a917dbfe
+gcr.io/knative-samples/helloworld-go
