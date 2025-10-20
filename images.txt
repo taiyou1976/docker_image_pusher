@@ -1,1 +1,2 @@
-gcr.io/knative-samples/helloworld-go
+docker.io/istio/proxyv2:1.26.2
+docker.io/istio/pilot:1.26.2
