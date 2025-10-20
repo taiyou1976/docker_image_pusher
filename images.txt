@@ -1,1 +1,1 @@
-ghcr.io/huggingface/text-embeddings-inference:1.8
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:d639691d50d174dabf3a4e2b828838405e5610cb6b58ce89771701aa167fe095
