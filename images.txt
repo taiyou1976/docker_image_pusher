@@ -1,20 +1,4 @@
-kserve/huggingfaceserver:v0.15.0
-kserve/huggingfaceserver:v0.15.0-gpu
-kserve/huggingfaceserver:v0.15.0-gpu
-kserve/lgbserver:v0.15.0
-docker.io/seldonio/mlserver:1.5.0
-kserve/paddleserver:v0.15.0
-kserve/pmmlserver:v0.15.0
-kserve/sklearnserver:v0.15.0
-tensorflow/serving:2.6.2
-pytorch/torchserve-kfs:0.9.0
-nvcr.io/nvidia/tritonserver:23.05-py3
-kserve/xgbserver:v0.15.0
-kserve/storage-initializer:v0.15.0
-kserve/kserve-controller:v0.15.0
-quay.io/brancz/kube-rbac-proxy:v0.18.0
-kserve/kserve-localmodel-controller:v0.15.0
-image: kserve/kserve-localmodelnode-agent:v0.15.0
+kserve/kserve-localmodelnode-agent:v0.15.0
 gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:69d02d1daaeab28da3792fd60858225a4e2b4cecf891fa5c9f12ef686d8b8340
 gcr.io/knative-releases/knative.dev/eventing/cmd/jobsink@sha256:117fd39ddafa2c69a5dbabe07f9c49a8034c182f15182100c6362bc4aa1f87e7
 gcr.io/knative-releases/knative.dev/eventing/cmd/mtping@sha256:6aa1613d8e042f72f17d1d7d7c545c30e8faafe2178a0a6ec95933fa5a4b3ee9
