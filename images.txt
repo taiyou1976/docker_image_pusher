@@ -1,1 +1,1 @@
-gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:69d02d1daaeab28da3792fd60858225a4e2b4cecf891fa5c9f12ef686d8b8340
+kserve/huggingfaceserver:v0.15.0
