@@ -1,1 +1,1 @@
-kserve/huggingfaceserver:v0.15.0
+coturn/coturn
